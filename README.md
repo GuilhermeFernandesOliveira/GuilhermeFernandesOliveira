@@ -4,13 +4,13 @@
 
 ###
 
-<h1 align="center">👋 Olá , eu sou o<br> Guilherme Fernandes Oliveira</h1>
+<h1 align="center">👋 Olá , eu sou o<br>Guilherme Fernandes Oliveira</h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">Software Engineering Student | C, JAVA, SQL and Software Testing</p>
+<h3 align="center">Software Engineering Student | C, JAVA, SQL and Software Testing</h3>
 
 ###
 
