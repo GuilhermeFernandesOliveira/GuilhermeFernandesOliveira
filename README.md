@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Atualmente curso Engenharia de Software na UTFPR em Dois Vizinhos. Sempre tive contato com a tecnologia e interesse em saber mais, isso contribuiu na minha escolha de querer ser um profissional qualificado na área de desenvolvimento de software.</p>
+<p align="left">Atualmente curso Engenharia de Software na UTFPR em Dois Vizinhos. Busco uma oportunidade de estágio na área de testes de software ou desenvolvimento, visando aplicar e expandir meus conhecimentos em programação, validação de sistemas e garantia da qualidade de software, contribuindo para a entrega de soluções confiáveis e eficientes.</p>
 
 <h2 align="left">Idiomas e Ferramentas</h2>
 
