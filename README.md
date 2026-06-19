@@ -29,7 +29,7 @@
 ###
 
 - LinkedIn: https://www.linkedin.com/in/guilherme-fernandes-oliveira-081659329/
-- Gmail: guilhermefernandes034@gmail.com
+- E-mail: guilhermefernandes034@gmail.com
 
 ###
 <br clear="both">
