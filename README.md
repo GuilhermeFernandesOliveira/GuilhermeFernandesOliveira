@@ -36,5 +36,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&text=Software%20Engineering%20Student%20%7C%20C,%20JAVA,%20SQL%20and%20Software%20Testing&fontSize=20&fontColor=808080&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=4B0082"  />
 </div>
-
-###
