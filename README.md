@@ -10,8 +10,8 @@
 
 ## Atualmente estudando
 
-- Java
 - C
+- Java
 - Estruturas de Dados
 - Banco de Dados
 - Teste de Software
